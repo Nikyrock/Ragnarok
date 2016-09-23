@@ -1,1 +1,6 @@
 Victor Guérin
+<<<<<<< HEAD
+Marc-antoine Duchesne
+=======
+David Bilodeau
+>>>>>>> b999c464491171b76538fe7592f812f1f9eaafa2
